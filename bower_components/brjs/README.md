@@ -5,8 +5,8 @@
 
 ## TODO
 
- * Validate and format CPF
- * Validate and format CNPJ
+ * Format and ramdom CPF
+ * Format and ramdom CNPJ
  * Validate and format Boleto Number
  * Validate and format Car Plate
  * Validate and format Date (only PT-BR)
@@ -14,7 +14,7 @@
  * Format Currency
  * Format Telephone
  * Find address by Zipcode
- 
+
  
  
 

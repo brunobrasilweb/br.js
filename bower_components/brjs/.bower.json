@@ -1,14 +1,38 @@
 {
-  "name": "brjs",
-  "homepage": "https://github.com/brunobrasilweb/brjs",
-  "_release": "4a51d47eb0",
+  "name": "br",
+  "main": "br.js",
+  "ignore": [
+    "node_modules",
+    "**/.*",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "description": "Brjs - Utility library to use things from Brazil.",
+  "homepage": "http://brjs.com",
+  "keywords": [
+    "brjs",
+    "br"
+  ],
+  "author": {
+    "name": "Bruno Brasil",
+    "web": "http://brunobrasilweb.com.br"
+  },
+  "devDependencies": {},
+  "authors": [
+    "Bruno Brasil <brunobrasilweb@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "brjs": "*"
+  },
+  "_release": "277ef8512f",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "4a51d47eb080002b8dc0059021850b39f3a18200"
+    "commit": "277ef8512fd64f7320f58e729db46a97c9dc6da7"
   },
   "_source": "https://github.com/brunobrasilweb/brjs.git",
   "_target": "*",
-  "_originalSource": "brjs",
-  "_direct": true
+  "_originalSource": "brjs"
 }
