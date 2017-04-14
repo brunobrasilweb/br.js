@@ -1,7 +1,6 @@
 # br v0.1.0
 
-[Site](http://brunobrasilweb.com.br/br.js) |
-[Docs](http://brunobrasilweb.com.br/br.js/docs) |
+Utility library to use things from Brazil
 
 ## TODO
 
