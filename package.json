@@ -1,0 +1,41 @@
+{
+    "name": "br",
+    "main": "./br.js",
+    "version": "0.1.0",
+    "description": "Brjs - Utility library to use things from Brazil",
+    "homepage": "http://brjs.com",
+    "author": "bruno Brasil <brunobrasilweb@gmail.com>",
+    "bugs": {
+        "url": "https://github.com/brunobrasilweb/brjs/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/brunobrasilweb/brjs.git"
+    },
+    "license": "MIT",
+    "devDependencies": {
+    },
+    "scripts": {
+    },
+    "keywords": [
+        "brjs",
+        "br"
+    ],
+    "jam": {
+        "main": "br.js"
+    },
+    "github": "https://github.com/brunobrasilweb/brjs",
+    "maintainers": [
+        {
+            "name": "Bruno Brasil",
+            "email": "brunobrasilweb@gmail.com",
+            "web": "http://brunobrasilweb.com.br"
+        }
+    ],
+    "spm": {
+        "main": "br.js",
+        "ignore": [
+            "test"
+        ]
+    }
+}

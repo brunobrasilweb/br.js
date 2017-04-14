@@ -1,0 +1,30 @@
+{
+  "name": "br",
+  "version": "0.1.0",
+  "main": "br.js",
+  "ignore": [
+    "node_modules",
+    "**/.*",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "description": "Brjs - Utility library to use things from Brazil.",
+  "homepage": "http://brjs.com",
+  "keywords": [
+    "brjs",
+    "br"
+  ],
+  "author": {
+    "name": "Bruno Brasil",
+    "web": "http://brunobrasilweb.com.br"
+  },
+  "devDependencies": {},
+  "authors": [
+    "Bruno Brasil <brunobrasilweb@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "brjs": "*"
+  }
+}

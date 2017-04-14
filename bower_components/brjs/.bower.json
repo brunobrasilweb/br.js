@@ -1,0 +1,14 @@
+{
+  "name": "brjs",
+  "homepage": "https://github.com/brunobrasilweb/brjs",
+  "_release": "4a51d47eb0",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4a51d47eb080002b8dc0059021850b39f3a18200"
+  },
+  "_source": "https://github.com/brunobrasilweb/brjs.git",
+  "_target": "*",
+  "_originalSource": "brjs",
+  "_direct": true
+}
